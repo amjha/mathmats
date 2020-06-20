@@ -1,6 +1,6 @@
 {
   "name": "mathmats",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Simple math library written in TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -35,5 +35,8 @@
     "ts-node": "^8.10.2",
     "tslint": "^6.1.2",
     "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.13"
   }
 }
