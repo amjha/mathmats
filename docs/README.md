@@ -41,3 +41,8 @@ console.log(m.parallelLines([0, 0], [12, 12], [12, 0]));
 // => prints true
 ```
 
+## Contribution
+- Fork repo and clone locally to your workstation
+- Add issues reference in PRs and summarize changes 
+- Ensure all test cases successfully runs before submitting PR
+- Fork repo and submit PR to the `amjha/mathmats` master
