@@ -1,4 +1,5 @@
-![img](docs/_media/logo.png)
+<img align="center" src="docs/_media/logo.png" width="300" height="300">
+
 # Mathmats
 
 Simple math library written in TypeScript
