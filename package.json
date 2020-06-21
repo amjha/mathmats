@@ -11,7 +11,7 @@
     "test": "mocha -r ts-node/register test/**/*.test.ts",
     "format": "prettier --write \"src/**/*.ts\" --ignore-path ./.prettierignore --write",
     "lint": "tslint -p tsconfig.json",
-    "prepare": "npm run start",
+    "prepare": "npm run build",
     "prepublishOnly": "npm test",
     "version": "git add -A src",
     "postversion": "git push && git push --tags"

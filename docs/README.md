@@ -71,7 +71,7 @@ console.log(m.parallelLines([0, 0], [12, 12], [12, 0]));
 ```
 
 ## Contribution
-- Fork repo and clone locally to your workstation
-- Add issues reference in PRs and summarize changes 
-- Ensure all test cases successfully runs before submitting PR
-- Fork repo and submit PR to the `amjha/mathmats` master
+- Fork repo and clone it locally to your workstation
+- Add issues reference in PRs and summarize all changes 
+- Ensure all test cases run successfully before submitting PR
+- Submit PR to the `amjha/mathmats` master branch
