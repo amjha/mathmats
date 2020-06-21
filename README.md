@@ -1,3 +1,4 @@
+![img](docs/_media/logo.png)
 # Mathmats
 
 Simple math library written in TypeScript
