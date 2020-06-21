@@ -1,5 +1,8 @@
-import {doLinesIntersect, isEquilateralTriangle} from './geometry';
-import {doIntersectA, isEquilateralTriangleA} from './algebra';
+import { doLinesIntersect, isEquilateralTriangle, parallelLines, perpendicularLines} from './geometry';
+import { doIntersectA } from './algebra';
 
-module.exports  = { doLinesIntersect, isEquilateralTriangle, 
-                    doIntersectA, isEquilateralTriangleA};
+module.exports = {
+    doLinesIntersect, isEquilateralTriangle,
+    parallelLines, perpendicularLines,
+    doIntersectA
+};
